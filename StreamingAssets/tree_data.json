@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "parentId": 0,
+      "objectName": "Root_Node",
+      "position": { "x": 0.0, "y": 0.0, "z": 0.0 },
+      "colorType": 1
+    },
+    {
+      "id": 2,
+      "parentId": 1,
+      "objectName": "Branch_A",
+      "position": { "x": -5.0, "y": 2.0, "z": 2.0 },
+      "colorType": 2
+    },
+    {
+      "id": 3,
+      "parentId": 1,
+      "objectName": "Branch_B",
+      "position": { "x": 5.0, "y": 2.0, "z": -2.0 },
+      "colorType": 2
+    },
+    {
+      "id": 4,
+      "parentId": 2,
+      "objectName": "Leaf_A1",
+      "position": { "x": -7.0, "y": 4.0, "z": 4.0 },
+      "colorType": 3
+    },
+    {
+      "id": 5,
+      "parentId": 2,
+      "objectName": "Leaf_A2",
+      "position": { "x": -3.0, "y": 4.0, "z": 0.0 },
+      "colorType": 3
+    }
+  ]
+}
